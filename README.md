@@ -1,2 +1,7 @@
-# CPP-Directory
-This repository contains all about C++ 💻 problems I came across, Notes and Materials and many more. 🌱
+### CPP-Directory
+
+This repository contains all about C++ 💻 problems I came across, Notes and Materials and many more. 🌱 The Repo also contains Algorithms through which I came across. ☕
+
+<img src="https://github.com/himakhaitan/CPP-Directory/tree/main/Assets/Images/Banner.jpg" />
+
+---
