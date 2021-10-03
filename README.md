@@ -1,6 +1,6 @@
 # CP-Directory
 
-This is an open source repository 🌱. Feel free to contribute any *Data Structure*, *Alogoritm* or *Competitive Programming Questions*.
+This is an open source repository 🌱. Feel free to contribute any *Data Structure*, *Alogorithm* or *Competitive Programming Questions*.
 
 The Repository is begineer friendly and contains all about Competitive Programming.
 
