@@ -2,8 +2,6 @@
 
 ## Follow the following steps to contribute to the repository
 
----
-
 *Below steps are not for those who want to contribute on [Notes.md](https://github.com/himakhaitan/CP-Directory/blob/main/Notes.md) and Assets.*
 
 - Search for the code you want to contribute in the repository first.
@@ -16,8 +14,6 @@
 
 ## Follow these steps after the issue is assigned.
 
----
-
 ```
 -   Fork This Repo
 -   Star this Repo
@@ -27,10 +23,8 @@
 
 ## How to Add Code
 
----
-
 ### For Problems
----
+
 Move into the respective folder namely `LeetCode`, `CodeForces` and `CodeChef`. If your code doesn't belong to any of the above mentioned, feel free to create one.
 
 After you're done with the code, update the [README.md](https://github.com/himakhaitan/CP-Directory) file you find in that folder mentioning the problem name lexicographically.
@@ -38,21 +32,18 @@ After you're done with the code, update the [README.md](https://github.com/himak
 *(Make sure you don't change the [README.md](https://github.com/himakhaitan/CP-Directory) in root of project but the [README.md](https://github.com/himakhaitan/CP-Directory) in folder of language you're working.)*
 
 ### For Data Structure and Algorithms
----
+
 Check for the respective topic related folder you want to contribute in. If it is not present do feel free to create one.
 
 ### For Notes
----
 
 You don't need to create issue for contributing in notes. Simply add points/heading to Notes.
 
 ### For Assets
----
 
 You don't need to create issue for contributing in assets. Simply add the file in the asset folder.
 
 ## After The Code/File is Added
----
 
 ```
 -   Commit the changes to the repository
