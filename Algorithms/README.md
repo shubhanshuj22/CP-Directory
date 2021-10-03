@@ -13,6 +13,7 @@ Following folder contains Algorithms in different languages. Feel free to add mo
     - InsertionSort
     - MergeSort
     - SelectionSort
+    - Dijkstra
 - C++
     
 ```
