@@ -21,6 +21,27 @@
 -   Add the code
 ```
 
+## File Strucutre
+
+```
+- Algorithms
+    - Topic Name
+        - question.yourCodeExt
+- Assets
+    - pdfs
+        - file.pdf
+    - images
+        - image.ext
+- Data Structure
+    - Topic Name
+        - question.yourCodeExt
+- Problems
+    - Site Name
+        -problem.ext
+```
+
+> Try to keep the same file strucutre as show above. Any suggestions to file structure can be made by opeining a new issue.
+
 ## How to Add Code
 
 ### For Problems
@@ -38,6 +59,16 @@ Check for the respective topic related folder you want to contribute in. If it i
 ### For Notes
 
 You don't need to create issue for contributing in notes. Simply add points/heading to Notes.
+
+[Notes.md](https://github.com/himakhaitan/CP-Directory/blob/main/Notes.md) contains small and little points about DSA one should know from the interview perspective. Feel free to add any such points.
+
+Any further points or headings can be added to Notes depending on how relavant it is to the purpose.
+
+Some of the examples are:
+
+- Tricks
+- Term & It's Definition
+- Many More
 
 ### For Assets
 
