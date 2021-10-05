@@ -14,6 +14,7 @@ Following folder contains Algorithms in different languages. Feel free to add mo
     - MergeSort
     - SelectionSort
     - Dijkstra
+    - CyclicSort
 - C++
     
 ```
